@@ -60,7 +60,7 @@ class Arena{
 
 
             echo "After " .$hits. " hits: ". "\r\n";
-            $battle->getTheWinner($i,$battle->getHero(), $battle->getBeast());
+            $battle->getTheWinner($battle->getHero(), $battle->getBeast());
 
         }
     }

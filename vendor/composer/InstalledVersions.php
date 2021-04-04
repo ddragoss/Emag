@@ -25,24 +25,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '170aa299b7b08203e311c3364aed1bdd1f247e49',
     'name' => 'autoload/namespacer',
   ),
   'versions' => 
   array (
     'autoload/namespacer' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '170aa299b7b08203e311c3364aed1bdd1f247e49',
     ),
     'doctrine/instantiator' => 
     array (
